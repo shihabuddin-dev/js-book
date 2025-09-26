@@ -423,3 +423,7 @@ If you want to **master JavaScript** from **scratch** to **advanced**, follow th
 
 ---
 
+## 👨‍💻 Developer & Contact
+
+- **Portfolio:** [shihab-dev.web.app](https://shihab-dev.web.app/)
+- **LinkedIn:** [linkedin.com/in/shihab-dev](https://www.linkedin.com/in/shihab-dev/)
